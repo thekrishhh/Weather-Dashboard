@@ -1,6 +1,6 @@
 # Weather-Dashboard
 
-🌦️ Interactive Weather Dashboard | Power BI
+ ## 🌦️ Interactive Weather Dashboard | Power BI
 
 Built an interactive and visually rich dashboard using Power BI to analyze real-time and forecast weather data along with air quality insights. The dashboard provides a comprehensive view of 🌡️ temperature trends, 💧 humidity, 🌬️ wind speed, and AQI metrics in a clean and user-friendly interface.
 
@@ -23,5 +23,5 @@ It includes dynamic KPI cards, 7-day forecast visualizations, and detailed pollu
 - Data Cleaning  
 - Data Visualization
 
-📸 Dashboard Preview
+ ## 📸 Dashboard Preview
 ![Dashboard Screenshot](https://github.com/thekrishhh/Weather-Dashboard/raw/main/Snapshot%20of%20Dashboard.png)
