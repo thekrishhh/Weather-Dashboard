@@ -6,7 +6,7 @@ Built an interactive and visually rich dashboard using Power BI to analyze real-
 
 It includes dynamic KPI cards, 7-day forecast visualizations, and detailed pollution analysis for PM2.5, PM10, CO, NO2, SO2, and O3 using DAX-based conditional formatting. The dashboard focuses on modern UI design, readability, and interactive analytics with a sleek 🌙 dark theme.
 
--> Key Highlights
+-> Key Highlights : 
 📊 Real-time weather and AQI analysis
 🎨 Dynamic KPI indicators with DAX color logic
 📅 7-day forecast trend visualization
@@ -14,8 +14,8 @@ It includes dynamic KPI cards, 7-day forecast visualizations, and detailed pollu
 🖱️ Interactive and responsive dashboard design
 🌙 Modern dark-themed UI
 
--> Tools & Technologies
+-> Tools & Technologies :
 Power BI • Power Query • DAX • Data Cleaning • Data Visualization
 
-## 📸 Dashboard Preview
+📸 Dashboard Preview
 ![Dashboard Screenshot](https://github.com/thekrishhh/Weather-Dashboard/raw/main/Snapshot%20of%20Dashboard.png)
