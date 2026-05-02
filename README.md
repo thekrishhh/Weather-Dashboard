@@ -17,4 +17,4 @@ It includes dynamic KPI cards, 7-day forecast visualizations, and detailed pollu
 -> Tools & Technologies
 Power BI • Power Query • DAX • Data Cleaning • Data Visualization
 
-https://github.com/thekrishhh/Weather-Dashboard/blob/main/Snapshot%20of%20Dashboard.png
+![Dashboard Screenshot]([image-link](https://github.com/thekrishhh/Weather-Dashboard/blob/main/Snapshot%20of%20Dashboard.png))
