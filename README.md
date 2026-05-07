@@ -1,4 +1,4 @@
-# Weather-Dashboard
+# Weather Dashboard
 
  ## 🌦️ Interactive Weather Dashboard | Power BI
 
